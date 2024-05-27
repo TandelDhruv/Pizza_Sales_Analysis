@@ -23,29 +23,29 @@ I want to visualize various aspects of pizza sales data to gain insights and und
 ## Useful Insights:-
 
 ### BUSIEST DAYS & TIMES
-#### Days
+#### By Days
 Orders are highest on Friday & Saturday evenings.
-#### Monthly
+#### By Month
 There are maximum orders from month of July, January & May.
 
 ### SALES PERFORMANCE
-#### Category
+#### By Category
 Classic Category Pizza contributes maximum to sales & total pizza Sold.
-#### Size
+#### By Size
 Large size pizza contributes maximum to sales.
 
 ### BEST SELLERS
-#### Revenue
+#### By Revenue
 The Thai Chicken Pizza contributes to maximum revenue.
-#### Quantity
+#### By Quantity
 The Classical Deluxe Pizza contributes to maximum total quantities.
-#### Total Orders
+#### By Total Orders
 The Classic Deluxe Pizza contributes to maximum total orders.
 
 ### WORST SELLER
-#### Revenue
+#### By Revenue
 The Spinach Pesto Pizza contributes to minimum revenue.
-#### Quantity
+#### By Quantity
 The Soppressata Pizza contributes to minimum total quantities.
-#### Total Orders
+#### By Total Orders
 The Chicken Pesto Pizza contributes to minimum total orders.
